@@ -1,0 +1,3 @@
+[web]
+#substitute instance_ip by the public ip of instance after apllying terraform
+<instance_ip>
